@@ -1,0 +1,17 @@
+# Incremental Data Loading using Databricks
+
+## Overview
+This project demonstrates how to implement incremental data loading using Databricks and SQL.
+
+## Tools Used
+- Databricks
+- SQL
+- PySpark
+
+## Key Concepts
+- Incremental Load
+- Data Transformation
+- Data Warehousing
+
+## Author
+Titus
